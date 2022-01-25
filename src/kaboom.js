@@ -7,7 +7,6 @@ const k = kaboom({
   scale: 1,
   canvas: document.getElementById('myCanvas'),
   scaleMode: 'stretch',
-  letterbox: true,
 });
 
 export default k;
